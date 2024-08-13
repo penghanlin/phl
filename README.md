@@ -1,3 +1,3 @@
 - 👀 Hi, I’m penghanlin(phl)
 - 🌱 I’m a full stack developer and team lead with more than 5 years experience
-- 👋 I’m currently learning golang, c/c++, rust and so on.
+- 👋 I’m interested in golang, c/c++, rust ,react and so on.
